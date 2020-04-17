@@ -26,4 +26,21 @@
         <tag>Games</tag>
       </tags>
   </entry>
+  <entry>
+    <title>blog1</title>
+    <url>/2020/04/17/blog1/</url>
+    <content><![CDATA[<h3 id="qqq"><a href="#qqq" class="headerlink" title="qqq"></a>qqq</h3><p>=====</p>
+<p>I <strong>have</strong> a <em>good</em> so I have </p>
+<blockquote>
+<p>i am a good man</p>
+</blockquote>
+<figure class="highlight ruby"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">aaaa</span><br></pre></td></tr></table></figure>
+
+<p>\ ai \</p>
+<p>![abc][“good”]</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="built_in">vector</span>&lt;<span class="built_in">unique_ptr</span>&lt;A&gt;&gt; v;</span><br><span class="line">v.push_back((make_unique&lt;A&gt;(<span class="number">100</span>)));</span><br><span class="line">v.push_back((make_unique&lt;A&gt;(<span class="number">200</span>)));</span><br></pre></td></tr></table></figure>
+
+<p><img src="/images/123.png" alt=""></p>
+]]></content>
+  </entry>
 </search>
